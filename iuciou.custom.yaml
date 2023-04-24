@@ -1,0 +1,54 @@
+#
+# Date: 2023-04-24
+# Rime dictionary custom
+# Wenzhounese - 溫州話
+# encoding: utf-8
+# Wolken (zwolken@foxmail.com | zharry@web.de)
+# version: 1.0.0
+
+patch:
+  "speller/algebra":
+    - abbrev/^([bcdfghjklprstvwxyz]).+$/$1/       # 對齊標準行
+    #完全匹配：
+    - derive/^i$/yi/        #央
+    - derive/^o$/wu/        #娃
+    - derive/^iu$/yu/       #溫、碗等
+    - derive/^([cj])iou$/jiu/
+    - derive/^(sh|ch|gn)iou$/$1iu/
+    #聲母：
+    - derive/^tsi/chi/
+    - derive/^si/xi/
+    - derive/^gn/n/
+    - derive/^dz/z/
+    - derive/^ts/z/
+    - derive/^p/b/
+    - derive/^tsh/c/
+    - derive/^ng/n/
+    - derive/^ph/p/
+    - derive/^th/t/
+    - derive/^dz/z/
+    - derive/^ts/z/
+    - derive/^ch/q/
+    - derive/^t/d/
+    - derive/^sh/x/
+    - derive/^c/j/
+    - derive/^gh/h/
+    - derive/^yu/y/
+    - derive/^k/g/
+    - derive/^kh/k/
+    - derive/^i/y/
+    - derive/^th/t/
+    #韻母：
+    - derive/ae$/e/
+    - derive/n$/ng/
+    - derive/au$/ao/
+    - derive/oe$/ou/          #端、算等的韻母情況
+    - derive/eu$/ou/          #土、圖、呂、夫等的韻母情況
+    - derive/y$/i/
+    - derive/eo$/e/
+    - derive/iu$/v/
+    ##- derive/iu$/u/         #ü特殊情況
+    - derive/ao$/o/
+    - derive/ao$/o/
+
+    
