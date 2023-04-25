@@ -25,3 +25,5 @@
 > 【小狼毫】 `%APPDATA%\Rime`
 >
 > 【鼠鬚管】 `~/Library/Rime/`
+
+- Android系統安裝可查閲[osfans/trime](https://github.com/osfans/trime)以及[SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)
