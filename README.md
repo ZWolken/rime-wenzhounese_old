@@ -9,15 +9,15 @@
 2. [吳語協會](http://wu-chinese.com/romanization/wenzhou.html)
 3. 溫州方言詞典 作者：李榮
 
-客制化内容主要為模糊音，即iuciou.custom.yaml文件。
+客制化内容主要為模糊音，即`iuciou.custom.yaml`文件。
 
-**注意：模糊音方案規則非常不嚴謹，有吳語拼寫經驗的不建議安裝模糊音，即iuciou.custom.yaml文件。**
+**注意：模糊音方案規則非常不嚴謹，有吳語拼寫經驗的不建議安裝模糊音(`iuciou.custom.yaml文件`)**
 
 ## 安裝
 
 1. 安裝[Rime](https://rime.im)
 
-2. 將`iuciou.schema.yaml` `iuciou.dict.yaml`以及`iuciou.custom.yaml`（選擇性）三個文件放入用戶資料夾内
+2. 將`iuciou.schema.yaml`、`iuciou.dict.yaml`以及`iuciou.custom.yaml`（選擇性）三個文件放入用戶資料夾内
 > 相關路徑：
 >
 > 【中州韻】 `~/.config/ibus/rime/` （0.9.1 以下版本爲 `~/.ibus/rime/`；fcitx5 为 `~/.local/share/fcitx5/rime/`）
