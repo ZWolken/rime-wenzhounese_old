@@ -11,8 +11,8 @@ schema:
     #- email 〈stickytoffeepuddingwithcaramel@gmail.com〉
     #- Discord 〈空埃#3329〉
     - Wolken
-    - Email 〈zwolken@foxmail.com | zharry@web.de〉
-    - 在 pearapple123/rime-iuciou 的基礎上進行定制化
+    - Email <zwolken@foxmail.com | zharry@web.de>
+    - 在 pearapple123/rime-iuciou 的基礎上進行客制化
   description:
     采用鄭張尚芳先生的拼音方案的溫州話輸入方案規則
 

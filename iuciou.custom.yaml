@@ -1,10 +1,13 @@
-#
+# 文件名：iuciou.custom.yaml
+# 針對iuciou.schema.yaml的模糊音
 # Date: 2023-04-24
 # Rime dictionary custom
 # Wenzhounese - 溫州話
+# 個人客制化模糊音
+# 非常不嚴謹！！！！！
 # encoding: utf-8
-# Wolken (zwolken@foxmail.com | zharry@web.de)
-# version: 1.0.0
+# Wolken <zwolken@foxmail.com | zharry@web.de>
+# version: 1.0.1
 
 patch:
   "speller/algebra":
@@ -15,6 +18,7 @@ patch:
     - derive/^iu$/yu/       #溫、碗等
     - derive/^([cj])iou$/jiu/
     - derive/^(sh|ch|gn)iou$/$1iu/
+    - derive/^ne$/nei/      #日、耐等
     #聲母：
     - derive/^tsi/chi/
     - derive/^si/xi/
@@ -38,6 +42,7 @@ patch:
     - derive/^kh/k/
     - derive/^i/y/
     - derive/^th/t/
+    - derive/^gh/w/
     #韻母：
     - derive/ae$/e/
     - derive/n$/ng/
