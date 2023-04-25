@@ -19,6 +19,7 @@ patch:
     - derive/^([cj])iou$/jiu/
     - derive/^(sh|ch|gn)iou$/$1iu/
     - derive/^ne$/nei/      #日、耐等
+    - derive/^ko$/gu/       #家等
     #聲母：
     - derive/^tsi/chi/
     - derive/^si/xi/
