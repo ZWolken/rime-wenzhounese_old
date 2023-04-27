@@ -21,31 +21,34 @@ patch:
     - derive/^ne$/nei/      #日、耐等
     - derive/^ko$/gu/       #家等
     #聲母：
+    - derive/^p/b/      #[p]-b
+    - derive/^tsh/c/    #[ts']-c
+    - derive/^t/d/      #[t]-d
+    - derive/^k[^h]/g/  #[k]-g
+    - derive/^gh/h/     #[ɦ]-hh
+    - derive/^c[^h]/j/  #[tɕ]-j
+    - derive/^kh/k/     #[k']-k
+    - derive/^ng/n/     #[ʔŋ]-ng 眼、兒等 建議注釋不使用
     - derive/^tsi/chi/
     - derive/^si/xi/
     - derive/^gn/n/
     - derive/^dz/z/
     - derive/^ts/z/
-    - derive/^p/b/
-    - derive/^tsh/c/
-    - derive/^ng/n/
     - derive/^ph/p/
     - derive/^th/t/
     - derive/^dz/z/
     - derive/^ts/z/
     - derive/^ch/q/
-    - derive/^t/d/
     - derive/^sh/x/
-    - derive/^c/j/
-    - derive/^gh/h/
     - derive/^yu/y/
-    - derive/^k/g/
-    - derive/^kh/k/
     - derive/^i/y/
     - derive/^th/t/
     - derive/^gh/w/
+    #- derive/^v/f/     #[v]-ff
+
     #韻母：
     - derive/ae$/e/
+    #- derive/ae$/ie/    #jie
     - derive/n$/ng/
     - derive/au$/ao/
     - derive/oe$/ou/          #端、算等的韻母情況
@@ -55,6 +58,4 @@ patch:
     - derive/iu$/v/
     ##- derive/iu$/u/         #ü特殊情況
     - derive/ao$/o/
-    - derive/ao$/o/
-
-    
+    - derive/uao$/o/          ##妝ciuao

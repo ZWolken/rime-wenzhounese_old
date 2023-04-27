@@ -62,6 +62,7 @@ version: "2.0.0"
 臨時邊兒		
 半半日日		
 自耕清業		
+訾那妝  ## 更改
 佛拌爻		
 假山巖		
 兩頭潮		
@@ -378,7 +379,7 @@ version: "2.0.0"
 蠻湯		
 西曬		
 許倈		
-訾那		
+訾那  
 該倈		
 轉暴		
 重梅		
@@ -586,6 +587,8 @@ version: "2.0.0"
 正租		
 茅坑		
 惡坑		
+𠀾	fai
+𠁞	fai
 㵩	dza	
 一	i	
 一	iai	
@@ -595,7 +598,7 @@ version: "2.0.0"
 万	va	
 丈	ji	
 三	sa	
-訾	tsy	
+訾	tsy	100%
 上	yi	
 下	gho	
 下	ho	
@@ -1459,8 +1462,8 @@ version: "2.0.0"
 妖	iae	
 妗	jian	
 妙	miae	
-妝	ciuao	
-妝	tsuao	
+妝	ciuao 70%   ##更改
+妝	tsuao	30%   ##更改
 妥	thou	
 妨	huao	
 妹	mai	
@@ -4693,7 +4696,7 @@ version: "2.0.0"
 邋	la	
 邑	iai	
 邢	yan	
-那	na	
+那	na  
 邦	puao	
 邪	zei	
 邱	chiau	
