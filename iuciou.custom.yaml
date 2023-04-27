@@ -24,17 +24,18 @@ patch:
     - derive/^p/b/      #[p]-b
     - derive/^tsh/c/    #[ts']-c
     - derive/^t/d/      #[t]-d
+    #- derive/^v/f/     #[v]-ff
     - derive/^k[^h]/g/  #[k]-g
     - derive/^gh/h/     #[ɦ]-hh
     - derive/^c[^h]/j/  #[tɕ]-j
     - derive/^kh/k/     #[k']-k
-    - derive/^ng/n/     #[ʔŋ]-ng 眼、兒等 建議注釋不使用
+    - derive/^ng/n/     #[ʔŋ]-ng & [ŋ]-nng 眼、咬、硬等 建議注釋不使用
+    - derive/^gn/n/     #[ʔȵ]-ny & [ȵ]-nny 粘、鳥等
+    - derive/^ph/p/     #[p']-p
     - derive/^tsi/chi/
     - derive/^si/xi/
-    - derive/^gn/n/
     - derive/^dz/z/
     - derive/^ts/z/
-    - derive/^ph/p/
     - derive/^th/t/
     - derive/^dz/z/
     - derive/^ts/z/
@@ -44,7 +45,6 @@ patch:
     - derive/^i/y/
     - derive/^th/t/
     - derive/^gh/w/
-    #- derive/^v/f/     #[v]-ff
 
     #韻母：
     - derive/ae$/e/
