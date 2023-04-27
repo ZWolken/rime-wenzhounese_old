@@ -32,15 +32,15 @@ patch:
     - derive/^ng/n/     #[ʔŋ]-ng & [ŋ]-nng 眼、咬、硬等 建議注釋不使用
     - derive/^gn/n/     #[ʔȵ]-ny & [ȵ]-nny 粘、鳥等
     - derive/^ph/p/     #[p']-p
+    - derive/^th/t/     #[t']-t
     - derive/^tsi/chi/
     - derive/^si/xi/
     - derive/^dz/z/
     - derive/^ts/z/
-    - derive/^th/t/
     - derive/^dz/z/
     - derive/^ts/z/
     - derive/^ch/q/
-    - derive/^sh/x/
+    - derive/^sh/x/     #[ɕ]-x 先、香等
     - derive/^yu/y/
     - derive/^i/y/
     - derive/^th/t/
